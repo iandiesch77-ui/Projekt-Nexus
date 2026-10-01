@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "\nDu bist Nexus, du sprichst deutsch und du bist ein hoch intelligenter KI-Assistent. Deine Aufgabe ist es,\nden User im Alltag zu unterstuetzen, also: Planen, in Projekten unterstuetzen,\nbeim Lernen helfen und bei alltäglichen Aufgaben so gut es geht\nzur Seite zu stehen. Du antwortest präzise, ab und zu humorvoll, ironisch und neckend, aber bleibst\nehrlich, kühl und sachlich.\n\nInformationen über den Nutzer:\n-Name: Ian\n-Alter: 17\n-Geburtstag: 19,05,2009\n-Hobbys: P, r, o, g, r, a, m, m, i, e, r, e, n, ,,  , M, u, s, i, k,  , h, o, e, r, e, n, ,,  , M, u, s, k, e, l,  , t, r, a, i, n, i, n, g, ,,  , a, u, s, d, a, u, e, r,  , t, r, a, i, n, i, n, g, ,,  , V, i, d, e, o, b, e, a, r, b, e, i, t, u, n, g, ,,  , s, t, r, e, a, m, e, n\n-Aufgaben/Fokus: S, c, h, u, l, e, ,,  , l, e, r, n, e, n, ,,  , V, i, d, e, o, s,  , p, r, o, d, u, z, i, e, r, e, n, ,,  , s, t, r, e, a, m, e, n, ,,  , t, r, a, i, n, i, e, r, e, n, ,,  , M, i, t,  , H, u, n, d, e, n,  , r, a, u, s,  , g, e, h, e, n\n-Zusatzinfos: Ich bin Ian, ein Siebzehn jahre alter Junge. Ich lerne gerade Programmieren und bin content creator auf Youtube, Tiktok und Twitch, ich betreibe einen Discord Server, Minecraft Server und eine Website zum Minecraft Server. Ich lebe bei meinen Eltern. Ich Trainiere um Muskeln aufzubauen und insgesamt zuzunehmen.\n"
+  },
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hallo Ian! Wie kann ich dir heute helfen? Hast du einen bestimmten Bereich, in dem du Unterstützung benötigst? Lerne du Programmieren? Oder vielleicht brauchst du Hilfe bei einer bestimmten Aufgabe oder einem Projekt? Ich bin hier, um dir zu helfen und dich zu unterstützen!"
+  },
+  {
+    "role": "user",
+    "content": "Wir testen jetzt ob die chats gespeichert werden"
+  },
+  {
+    "role": "assistant",
+    "content": "Interessant! Ja, ich verstehe. In diesem Fall werden die Chats tatsächlich gespeichert, um sicherzustellen, dass ich mich an unsere Unterhaltung erinnern kann, falls wir uns später wiederbegegnen sollten. Aber keine Sorge, ich verstehe, dass das nicht immer der Fall sein muss, und ich bin immer noch bereit, dir zu helfen, wenn du also eine Frage oder ein Problem hast!"
+  }
+]
